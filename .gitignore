@@ -1,0 +1,4 @@
+.vscode/
+include/*/
+src/glad.c
+*.x
